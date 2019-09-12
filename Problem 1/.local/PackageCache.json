@@ -22,10 +22,10 @@
         "C:\\Users\\ofdhi\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\ofdhi\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.excel.activities/2.5.4\\lib/net452/UiPath.Excel.Activities.Design.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.excel.activities/2.5.4\\lib/net452/UiPath.Excel.Activities.dll",
@@ -59,18 +59,18 @@
         "C:\\Users\\ofdhi\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/CefSharp.BrowserSubprocess.Core.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/CefSharp.Core.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/CefSharp.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/CefSharp.Wpf.dll",
+        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/CefSharp.dll",
+        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/UiPath.CEFSharpBundle.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/chrome_elf.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/d3dcompiler_47.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/libcef.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/libEGL.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/libGLESv2.dll",
+        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/libcef.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/msvcp140.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/UiPath.CEFSharpBundle.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/vcruntime140.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/swiftshader/libEGL.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/swiftshader/libGLESv2.dll",
+        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.cefsharpbundle/1.0.1\\lib/net452/vcruntime140.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.documentprocessing.contracts/1.0.0\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/FCEngine.VisualComponents.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/Interop.FCEngine.dll",
@@ -89,26 +89,26 @@
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.OutOfProcessUi.Common.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.PDF.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.TableProcessing.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.TaxonomyManager.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.TaxonomyManager.Host.Local.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.TaxonomyManager.Storage.dll",
+        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.TaxonomyManager.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.Utils.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.ValidationStation.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.ValidationStation.Host.Local.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.ValidationStation.PDF.Optimization.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.ValidationStation.Storage.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.intelligentocr.activities/2.0.1\\lib/net461/UiPath.SmartData.ValidationStation.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.AbbyyCloud.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.AbbyyFRE11.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.AbbyyFRE12.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.AbbyyFRECommon.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.Core.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.GoogleCloud.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.Microsoft.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.dll"
       ]
     },
     {
@@ -179,8 +179,8 @@
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.terminal.activities/1.3.2\\lib/net452/UiPath.Terminal.Attachmate.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.terminal.activities/1.3.2\\lib/net452/UiPath.Terminal.AttachmateExtra.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.terminal.activities/1.3.2\\lib/net452/UiPath.Terminal.BlueZone.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.terminal.activities/1.3.2\\lib/net452/UiPath.Terminal.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.terminal.activities/1.3.2\\lib/net452/UiPath.Terminal.IBM.dll"
+        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.terminal.activities/1.3.2\\lib/net452/UiPath.Terminal.IBM.dll",
+        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.terminal.activities/1.3.2\\lib/net452/UiPath.Terminal.dll"
       ]
     },
     {
@@ -194,10 +194,10 @@
         "C:\\Users\\ofdhi\\.nuget\\packages\\caliburn.micro/3.0.1\\lib/net45/Caliburn.Micro.Platform.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\caliburn.micro/3.0.1\\lib/net45/System.Windows.Interactivity.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\caliburn.micro.core/3.0.1\\lib/net45/Caliburn.Micro.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\ofdhi\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
@@ -221,11 +221,11 @@
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.AbbyyFRECommon.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.Core.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.GoogleCloud.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.Microsoft.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
-        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.vision/1.5.0\\lib/net452/UiPath.Vision.dll"
       ]
     },
     {
@@ -252,6 +252,16 @@
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.word.activities/1.3.2\\lib/net452/UiPath.Word.Activities.Design.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.word.activities/1.3.2\\lib/net452/UiPath.Word.Activities.dll",
         "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.word.activities/1.3.2\\lib/net452/UiPath.Word.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Credentials.Activities",
+        "Version": "1.1.6479.13204"
+      },
+      "Assemblies": [
+        "C:\\Users\\ofdhi\\.nuget\\packages\\credentialmanagement/1.0.2\\lib/net35/CredentialManagement.dll",
+        "C:\\Users\\ofdhi\\.nuget\\packages\\uipath.credentials.activities/1.1.6479.13204\\lib/net40-client/UiPath.Credentials.Activities.dll"
       ]
     }
   ],
@@ -357,6 +367,11 @@
           "Item2": "[2.5.0, )"
         }
       ]
+    },
+    "CredentialManagement": {
+      "Id": "CredentialManagement",
+      "Version": "1.0.2",
+      "Dependencies": []
     },
     "CsvHelper": {
       "Id": "CsvHelper",
@@ -505,6 +520,16 @@
         {
           "Item1": "Newtonsoft.Json",
           "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.Credentials.Activities": {
+      "Id": "UiPath.Credentials.Activities",
+      "Version": "1.1.6479.13204",
+      "Dependencies": [
+        {
+          "Item1": "CredentialManagement",
+          "Item2": "[1.0.2, )"
         }
       ]
     },

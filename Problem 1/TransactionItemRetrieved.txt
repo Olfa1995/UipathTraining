@@ -1,0 +1,49 @@
+QueueItem 
+{
+  AssignedTo=null,
+  DeferDate=null,
+  DueDate=null,
+  Id=22366281,
+  ItemKey=[cb9e677d-45b8-4d37-90f2-b2a721911643],
+  LastProcessingOn=null,
+  Output=null,
+  Priority=Normal,
+  ProcessingException=null,
+  Progress="",
+  QueueDefinitionId=249743,
+  QueueName="Transactions",
+  Reference="2",
+  RetryNo=0,
+  ReviewStatus="None",
+  RowVersion=byte[8] 
+  {
+    0,
+    0,
+    0,
+    0,
+    3,
+    190,
+    117,
+    152 
+  },
+  SpecificContent=Dictionary<string, object>(3) 
+  {
+    
+    {
+      "CashIn",
+      "382" 
+    },
+    
+    {
+      "OnUsCash",
+      "997.34" 
+    },
+    
+    {
+      "NotOnUsCheck",
+      "32" 
+    }
+  },
+  StartTransactionTime=[09/12/2019 15:53:07],
+  Status=InProgress 
+}

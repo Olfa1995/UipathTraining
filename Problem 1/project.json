@@ -4,6 +4,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Cognitive.Activities": "[2.2.2]",
+    "UiPath.Credentials.Activities": "1.1.6479.13204",
     "UiPath.Excel.Activities": "[2.5.4]",
     "UiPath.IntelligentOCR.Activities": "[2.0.1]",
     "UiPath.Mail.Activities": "[1.4.1]",

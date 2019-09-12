@@ -125,6 +125,18 @@
           "lib/net40/ClosedXML.dll": {}
         }
       },
+      "CredentialManagement/1.0.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "CredentialManagement"
+        ],
+        "compile": {
+          "lib/net35/_._": {}
+        },
+        "runtime": {
+          "lib/net35/CredentialManagement.dll": {}
+        }
+      },
       "CsvHelper/2.13.5": {
         "type": "package",
         "compile": {
@@ -491,6 +503,18 @@
           "lib/net452/zh-CN/UiPath.Cognitive.resources.dll": {
             "locale": "zh-CN"
           }
+        }
+      },
+      "UiPath.Credentials.Activities/1.1.6479.13204": {
+        "type": "package",
+        "dependencies": {
+          "CredentialManagement": "1.0.2"
+        },
+        "compile": {
+          "lib/net40-client/_._": {}
+        },
+        "runtime": {
+          "lib/net40-client/UiPath.Credentials.Activities.dll": {}
         }
       },
       "UiPath.DocumentProcessing.Contracts/1.0.0": {
@@ -1326,6 +1350,17 @@
         "lib/net40/ClosedXML.xml"
       ]
     },
+    "CredentialManagement/1.0.2": {
+      "sha512": "VkP04/jFXaxT3TkcRhzETYtOrznQxRmQ2J1XJdbXz47Bir7hIzPR7mFZk4GJQ4An4gozW+vonpf+iqTHomAkQw==",
+      "type": "package",
+      "path": "credentialmanagement/1.0.2",
+      "files": [
+        ".nupkg.metadata",
+        "credentialmanagement.1.0.2.nupkg.sha512",
+        "credentialmanagement.nuspec",
+        "lib/net35/CredentialManagement.dll"
+      ]
+    },
     "CsvHelper/2.13.5": {
       "sha512": "fC8DPi/YTcZ8uXFiAeuT9EpsR2TE5cSJ2jg/4tht/Oen6az/djebpYoCQEtI33RfNrSZ533SedOknlWtUTX3fw==",
       "type": "package",
@@ -1980,6 +2015,17 @@
         "uipath.cognitive.activities.nuspec"
       ]
     },
+    "UiPath.Credentials.Activities/1.1.6479.13204": {
+      "sha512": "2C7e17Lk1G6QenZQwA5q0DETGdAb9K34p6SqPcAOdHHyr+BtYSWLWhXn+zNlMF8ZCr51pHCiBPNp33nok2B3Qw==",
+      "type": "package",
+      "path": "uipath.credentials.activities/1.1.6479.13204",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net40-client/UiPath.Credentials.Activities.dll",
+        "uipath.credentials.activities.1.1.6479.13204.nupkg.sha512",
+        "uipath.credentials.activities.nuspec"
+      ]
+    },
     "UiPath.DocumentProcessing.Contracts/1.0.0": {
       "sha512": "ytjyP/pt4OJ6D2N7I0KnLJ06m/WmPDI0g7OK2762cD16P4Dv2VwH/7V9xHhyXBSfb3KTascOM/ddkoXqkWv+tg==",
       "type": "package",
@@ -2445,6 +2491,7 @@
     "": [],
     ".NETFramework,Version=v4.6.1": [
       "UiPath.Cognitive.Activities >= 2.2.2 <= 2.2.2",
+      "UiPath.Credentials.Activities >= 1.1.6479.13204 <= 1.1.6479.13204",
       "UiPath.Excel.Activities >= 2.5.4 <= 2.5.4",
       "UiPath.IntelligentOCR.Activities >= 2.0.1 <= 2.0.1",
       "UiPath.Mail.Activities >= 1.4.1 <= 1.4.1",
@@ -2463,9 +2510,9 @@
     "restore": {
       "projectUniqueName": "UiPath_REFrameWork",
       "projectName": "UiPath_REFrameWork",
-      "projectPath": "C:\\Users\\ofdhi\\Desktop\\Uipath Cerification\\ReFrameWork-master\\.local",
+      "projectPath": "C:\\Users\\ofdhi\\Desktop\\Uipath_Cerification\\Problem 1\\.local",
       "packagesPath": "C:\\Users\\ofdhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ofdhi\\Desktop\\Uipath Cerification\\ReFrameWork-master\\.local"
+      "outputPath": "C:\\Users\\ofdhi\\Desktop\\Uipath_Cerification\\Problem 1\\.local"
     },
     "frameworks": {
       "net461": {
@@ -2474,6 +2521,11 @@
             "include": "Runtime",
             "target": "Package",
             "version": "[2.2.2, 2.2.2]"
+          },
+          "UiPath.Credentials.Activities": {
+            "include": "Runtime",
+            "target": "Package",
+            "version": "[1.1.6479.13204, 1.1.6479.13204]"
           },
           "UiPath.Excel.Activities": {
             "include": "Runtime",

@@ -1,0 +1,1 @@
+Intialize a dicionary : new Dictionary(of String, object)
